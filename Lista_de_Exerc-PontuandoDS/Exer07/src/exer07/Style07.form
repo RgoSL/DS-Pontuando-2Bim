@@ -512,9 +512,12 @@
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="99" red="ff" type="rgb"/>
             </Property>
+<<<<<<< HEAD
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="cc" type="rgb"/>
             </Property>
+=======
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
             <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
               <StringArray count="6">
                 <StringItem index="0" value="SP"/>
@@ -532,6 +535,12 @@
         </Component>
         <Component class="javax.swing.JButton" name="jButton1">
           <Properties>
+<<<<<<< HEAD
+=======
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tw Cen MT Condensed Extra Bold" size="14" style="0"/>
             </Property>
@@ -549,6 +558,12 @@
         </Component>
         <Component class="javax.swing.JButton" name="jButton2">
           <Properties>
+<<<<<<< HEAD
+=======
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tw Cen MT Condensed Extra Bold" size="14" style="0"/>
             </Property>
@@ -566,6 +581,12 @@
         </Component>
         <Component class="javax.swing.JButton" name="jButton3">
           <Properties>
+<<<<<<< HEAD
+=======
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Tw Cen MT Condensed Extra Bold" size="18" style="0"/>
             </Property>

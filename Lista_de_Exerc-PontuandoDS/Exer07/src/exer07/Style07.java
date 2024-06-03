@@ -4,8 +4,11 @@
  */
 package exer07;
 
+<<<<<<< HEAD
 import javax.swing.JOptionPane;
 
+=======
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
 /**
  *
  * @author Rafael
@@ -184,9 +187,15 @@ public class Style07 extends javax.swing.JFrame {
         jTextField11.setText("07/11/2008");
 
         jComboBox1.setBackground(new java.awt.Color(255, 153, 255));
+<<<<<<< HEAD
         jComboBox1.setForeground(new java.awt.Color(204, 255, 255));
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "SP", "MG", "RJ", "BA", "PB", "RR" }));
 
+=======
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "SP", "MG", "RJ", "BA", "PB", "RR" }));
+
+        jButton1.setBackground(new java.awt.Color(255, 255, 255));
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
         jButton1.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 0, 14)); // NOI18N
         jButton1.setForeground(new java.awt.Color(204, 153, 255));
         jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/exer07/sair.png"))); // NOI18N
@@ -197,6 +206,10 @@ public class Style07 extends javax.swing.JFrame {
             }
         });
 
+<<<<<<< HEAD
+=======
+        jButton2.setBackground(new java.awt.Color(255, 255, 255));
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
         jButton2.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 0, 14)); // NOI18N
         jButton2.setForeground(new java.awt.Color(204, 153, 255));
         jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/exer07/limpar.png"))); // NOI18N
@@ -207,6 +220,10 @@ public class Style07 extends javax.swing.JFrame {
             }
         });
 
+<<<<<<< HEAD
+=======
+        jButton3.setBackground(new java.awt.Color(255, 255, 255));
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
         jButton3.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 0, 18)); // NOI18N
         jButton3.setForeground(new java.awt.Color(204, 153, 255));
         jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/exer07/incluir.png"))); // NOI18N
@@ -383,6 +400,7 @@ public class Style07 extends javax.swing.JFrame {
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
+<<<<<<< HEAD
         String codigo = jTextField1.getText();
           String nome = jTextField2.getText();
             String endereco = jTextField3.getText();
@@ -401,6 +419,8 @@ public class Style07 extends javax.swing.JFrame {
                           JOptionPane.showMessageDialog(this, message, "Dados coletados", JOptionPane.INFORMATION_MESSAGE);
                             
         
+=======
+>>>>>>> c4bfd87fcae0f8044ea0eca09f4e7c0fc81e6824
         
     }//GEN-LAST:event_jButton3ActionPerformed
 
